@@ -286,5 +286,7 @@ public class BankMain extends javax.swing.JFrame {
     private JMenuItem jMenuItem6;
     private JMenuItem jMenuItem7;
     private JPopupMenu.Separator jSeparator1;
+
+}
    
 
