@@ -12,7 +12,7 @@ import javax.swing.*;
 
 /**
  *
- * @author ganesh
+ * @author srinivas
  */
 public class BankMain extends javax.swing.JFrame {
 
